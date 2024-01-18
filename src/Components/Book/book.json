@@ -1,0 +1,68 @@
+{
+  "book": [
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Sylhet_Notebook_SN202108148-Sevendays_Notes-840ab-236841.jpg",
+      "BookName": "Another Brooklyn",
+      "Writer": "F. Scott Fitzgerald",
+      "Price": "20.99",
+      "PublishYear": 1925,
+      "Rating": 4
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Rajshahi_Notebook_SN202205177-Sevendays_Notes-38104-250914.jpg",
+      "BookName": "Microlab",
+      "Writer": "Harper Lee",
+      "Price": "18.99",
+      "PublishYear": 1960,
+      "Rating": 5
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Barishal_Notebook_SN202205175-Sevendays_Notes-2a460-250913.jpg",
+      "BookName": "The Great wall",
+      "Writer": "George Orwell",
+      "Price": "22.49",
+      "PublishYear": 1949,
+      "Rating": 4.5
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Rangpur_Notebook_SN202205179-Sevendays_Notes-a69aa-250912.jpg",
+      "BookName": "Sense of an Ending",
+      "Writer": "J.D. Salinger",
+      "Price": "24.95",
+      "PublishYear": 1951,
+      "Rating": 4
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Khulna_Notebook_SN202205176-Sevendays_Notes-428cd-250916.jpg",
+      "BookName": "Tinkers",
+      "Writer": "J.R.R. Tolkien",
+      "Price": "29.99",
+      "PublishYear": 1937,
+      "Rating": 4.5
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mymensingh_Notebook_SN202205178-Sevendays_Notes-a7e11-250915.jpg",
+      "BookName": "Harry Potter ",
+      "Writer": "J.K. Rowling",
+      "Price": "26.99",
+      "PublishYear": 1997,
+      "Rating": 5
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Sylhet_Notebook_SN202108148-Sevendays_Notes-840ab-236841.jpg",
+      "BookName": "Da Vinci Code",
+      "Writer": "Dan Brown",
+      "Price": "21.99",
+      "PublishYear": 2003,
+      "Rating": 4
+    },
+    {
+      "BookImage": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Starry_Night_Notebook-Dyu_Publication-b7877-252109.png",
+      "BookName": "JavaScript",
+      "Writer": "Jane Austen",
+      "Price": "19.99",
+      "PublishYear": 1813,
+      "Rating": 4.5
+    }
+  ]
+}
