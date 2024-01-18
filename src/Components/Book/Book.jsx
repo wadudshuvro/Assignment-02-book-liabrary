@@ -17,11 +17,11 @@ const Book = ({ bookData, onAddToCart, onToggleFavorite }) => {
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg p-4 space-y-3">
       <img
-        className="w-full flex items-center justify-center rounded-md border border-[#324251]/30 bg-white p-4 max-w-[300px]"
+        className="space-y-3 w-full flex items-center justify-center rounded-md border border-[#324251]/30 bg-white p-4 max-w-[300px]"
         src={bookData.BookImage}
         alt={bookData.BookName}
       />
-      <div className="px-6 py-4">
+      <div className="px-6 py-4 space-y-3">
         <div className="mb-2 text-lg font-bold lg:text-xl">
           {bookData.BookName} ({bookData.PublishYear})
         </div>
